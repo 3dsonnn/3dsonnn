@@ -3,7 +3,7 @@
 
 At the moment, I'm:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Developing an HTTP server in C++98<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• 🐳 Learning Docker<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Learning Docker 🐳<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Collaborating with [JBYoussef](https://github.com/JBYoussef) on a Tetris game inspired by [tetr.io](https://tetr.io) → [repo](https://github.com/3dsonnn/tetr)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Building my own game engine (any help is welcome) → [repo](https://github.com/3dsonnn/my_mlx)<br>
 
