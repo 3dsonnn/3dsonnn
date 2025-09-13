@@ -1,7 +1,17 @@
 <h1 align="center">👋🏿 Hi, I'm Edson Finda</h1>
 <p align="center">A passionate low-level programmer, always eager to learn new things</p>
 
-I’m passionate about low-level programming and always eager to learn new things<br><br>At the moment, I'm:<br>     - Developing an HTTP server in C++98<br>     - Learning Docker<br>     - Collaborating with https://github.com/JBYoussef on a Tetris game inspired by tetr.io → https://github.com/3dsonnn/tetr<br>     - Building my own game engine (any help is welcome) → https://github.com/3dsonnn/my_mlx<br><br>If you have a challenging project idea in C/C++, I’d love to hear it!<br>I hope you find anything interesting in my repos → https://github.com/3dsonnn?tab=repositories<br>You can also check out my articles here → https://medium.com/@efinda<br>If you want to contact me → edsonbaptistafinda@gmail.com
+At the moment, I'm:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Developing an HTTP server in C++98<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Learning Docker<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Collaborating with https://github.com/JBYoussef on a Tetris game inspired by tetr.io → https://github.com/3dsonnn/tetr<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Building my own game engine (any help is welcome) → https://github.com/3dsonnn/my_mlx<br><br>
+
+If you have a challenging project idea in C/C++, I’d love to hear it!<br>
+I hope you find anything interesting in my repos → https://github.com/3dsonnn?tab=repositories<br>
+You can also check out my articles here → https://medium.com/@efinda<br>
+If you want to contact me → edsonbaptistafinda@gmail.com
+
 
 
 ## 🌐 Socials:
