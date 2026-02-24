@@ -3,12 +3,11 @@
 
 📍 At the moment, I'm:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• 👨🏿‍💻 Pursuing the [42](https://www.42network.org/) Common Core<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• 📡 Developing an HTTP server in C++98<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• 🐳 Learning Docker<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 Learning Web Development<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• 🟦 Collaborating with [JBYoussef](https://github.com/JBYoussef) on a Tetris game inspired by [tetr.io](https://tetr.io) → [repo](https://github.com/3dsonnn/tetr)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• 🎮 Building my own game engine (any help is welcome) → [repo](https://github.com/3dsonnn/my_mlx)<br>
 
-If you have a challenging project idea in C/C++, I’d love to hear it!<br>
+If you have a challenging project idea in C/C++, I’d love to hear about it!<br>
 I hope you find anything interesting in my repos → [efinda/repos](https://github.com/3dsonnn?tab=repositories)<br>
 You can also check out my articles → [efinda/articles](https://medium.com/@efinda)<br>
 
