@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="efinda — Software Engineer: systems, infrastructure, security">
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#CE1126"/>
+      <stop offset="55%" stop-color="#F5C518"/>
+      <stop offset="100%" stop-color="#CE1126"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0 L0 0 0 26" fill="none" stroke="#161B22" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round">
+      <rect x="1" y="1" width="998" height="238" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect x="0" y="0" width="1000" height="240" fill="#0B0E14"/>
+    <rect x="0" y="0" width="1000" height="240" fill="url(#grid)"/>
+
+    <!-- title bar -->
+    <rect x="0" y="0" width="1000" height="40" fill="#12161F"/>
+    <circle cx="26" cy="20" r="6" fill="#CE1126"/>
+    <circle cx="48" cy="20" r="6" fill="#F5C518"/>
+    <circle cx="70" cy="20" r="6" fill="#2F3742"/>
+    <text x="500" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6E7A8A">efinda@42luanda: ~/portfolio — minishell</text>
+
+    <!-- left flag stripe -->
+    <rect x="0" y="40" width="6" height="95" fill="#CE1126"/>
+    <rect x="0" y="135" width="6" height="5" fill="#F5C518"/>
+    <rect x="0" y="140" width="6" height="94" fill="#1C222B"/>
+
+    <!-- terminal body -->
+    <text x="46" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+      <tspan fill="#CE1126">➜</tspan><tspan fill="#6E7A8A">  ~</tspan><tspan fill="#F5C518"> whoami</tspan>
+    </text>
+
+    <text x="46" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="700" fill="#E6EDF3" letter-spacing="1">efinda</text>
+    <text x="232" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#4B5563">// Edson Finda</text>
+
+    <text x="46" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">
+      <tspan fill="#E6EDF3">Software Engineer</tspan><tspan fill="#CE1126">  ·  </tspan><tspan fill="#F5C518">Systems</tspan><tspan fill="#CE1126">  ·  </tspan><tspan fill="#F5C518">Infrastructure</tspan><tspan fill="#CE1126">  ·  </tspan><tspan fill="#F5C518">Security</tspan>
+    </text>
+
+    <text x="46" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+      <tspan fill="#CE1126">➜</tspan><tspan fill="#6E7A8A">  ~</tspan><tspan fill="#E6EDF3"> _</tspan>
+    </text>
+
+    <!-- emblem: star, half gear & machete (Angola) -->
+    <g transform="translate(858,140)">
+      <path d="M -58 8 A 58 58 0 0 1 58 8" fill="none" stroke="#F5C518" stroke-width="8" stroke-linecap="round"/>
+      <g fill="#F5C518">
+        <rect x="-4.5" y="-78" width="9" height="15" rx="2" transform="translate(0,8) rotate(-58)"/>
+        <rect x="-4.5" y="-78" width="9" height="15" rx="2" transform="translate(0,8) rotate(-29)"/>
+        <rect x="-4.5" y="-78" width="9" height="15" rx="2" transform="translate(0,8) rotate(29)"/>
+        <rect x="-4.5" y="-78" width="9" height="15" rx="2" transform="translate(0,8) rotate(58)"/>
+        <rect x="-4.5" y="-78" width="9" height="15" rx="2" transform="translate(0,8) rotate(-84)"/>
+        <rect x="-4.5" y="-78" width="9" height="15" rx="2" transform="translate(0,8) rotate(84)"/>
+      </g>
+      <g transform="rotate(24)">
+        <path d="M -6 -28 L 6 -28 L 4 32 L -4 32 Z" fill="#E6EDF3"/>
+        <path d="M -6 -28 L 6 -28 L 6 -20 L -6 -20 Z" fill="#C9D1D9"/>
+        <rect x="-7" y="32" width="14" height="17" rx="4" fill="#CE1126"/>
+      </g>
+      <path d="M 0 -40 L 5.9 -22 L 24.8 -22 L 9.5 -11 L 15.3 7 L 0 -4.2 L -15.3 7 L -9.5 -11 L -24.8 -22 L -5.9 -22 Z"
+            transform="translate(0,-62) scale(0.82)" fill="#F5C518"/>
+    </g>
+
+    <rect x="0" y="234" width="1000" height="6" fill="url(#rule)" opacity="0.85"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="14" fill="none" stroke="#21262D"/>
+</svg>
